@@ -1,3 +1,4 @@
+package Day4;
 public class typeConversion {
     public static void main(String[]args){
         //implicit conversion (where destination data type should be wider (higer)then source DESTINATION > SOURCE)

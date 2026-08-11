@@ -1,3 +1,4 @@
+package Day2;
 public class datatype{
     public static void main (String[] args){
          //interger - byte , short , int , long //

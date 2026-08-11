@@ -1,3 +1,4 @@
+package Day4;
 public class typePromotion {
     public static void main(String[]args){
         Byte b = 12;

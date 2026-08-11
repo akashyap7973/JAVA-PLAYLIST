@@ -38,7 +38,7 @@ public class typeConversion {
 
         System.out.println("Vlaue of U (int) :" +U);
 
-    
+        
 
     }
 }

@@ -19,5 +19,30 @@ public class BitwiseOperator {
         System.out.println("Bitwise Left Shift of the two numbers :" +g);
         System.out.println("Bitwise Right Shift of the two numbers :" +h);
         System.out.println("Bitwise Unsigned Right Shift of the two numbers :" +i);
+
+        int j = 2;
+        j &= 2;
+        int k = 4;
+        k |= 4;
+        int l = 5;
+        l ^= 5;
+        int m = 6;
+        m = ~m;
+        int n = 7;
+        n >>= 7;
+        int o = 8;
+        o <<= 8;
+        int p = 9;
+        p >>>= 9;
+        int q= 9;
+
+        System.out.println("Bitwise AND assignment of the two numbers :" +j);
+        System.out.println("Bitwise OR assignment of the two numbers :" +k);
+        System.out.println("Bitwise XOR assignment of the two numbers :" +l);
+        System.out.println("Bitwise NOT assignment of the two numbers :" +m);
+        System.out.println("Bitwise Right Shift assignment of the two numbers :" +n);
+        System.out.println("Bitwise Left Shift assignment of the two numbers :" +o);
+        System.out.println("Bitwise Unsigned Right Shift assignment of the two numbers :" +p);
+     
     }  
 }

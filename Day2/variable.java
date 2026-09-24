@@ -1,5 +1,4 @@
-package Day2;
-public class variable  {
+ public class variable  {
     public static void main(String[] args){
         int time = 10; 
         float pi = 3.1466868f;

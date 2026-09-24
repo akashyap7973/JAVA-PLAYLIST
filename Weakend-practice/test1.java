@@ -139,10 +139,7 @@ System.out.printf("Average: %.2f%n", y);
 
 // Original double: 25.5
 // Converted int: 25
-
-// You must explicitly use type casting for the narrowing conversion.//
-int h = 100;
-double i = 25.5;
+ 
 
 //convert int into double
 
